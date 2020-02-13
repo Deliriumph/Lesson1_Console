@@ -11,7 +11,7 @@ namespace Lesson1_Console
         static void Main(string[] args)
         {
             Console.WriteLine("Введите текст");
-            string str = Console.ReadLine();
+            string str = Console.ReadLine(); //test commit
             Console.WriteLine("Введено: " + str);
             Console.ReadLine();
         }
